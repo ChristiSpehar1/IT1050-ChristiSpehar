@@ -1,0 +1,11 @@
+C:\Users\chris\source\repos\MIdterm\MIdterm\bin\Debug\netcoreapp3.0\MIdterm.exe
+C:\Users\chris\source\repos\MIdterm\MIdterm\bin\Debug\netcoreapp3.0\MIdterm.deps.json
+C:\Users\chris\source\repos\MIdterm\MIdterm\bin\Debug\netcoreapp3.0\MIdterm.runtimeconfig.json
+C:\Users\chris\source\repos\MIdterm\MIdterm\bin\Debug\netcoreapp3.0\MIdterm.runtimeconfig.dev.json
+C:\Users\chris\source\repos\MIdterm\MIdterm\bin\Debug\netcoreapp3.0\MIdterm.dll
+C:\Users\chris\source\repos\MIdterm\MIdterm\bin\Debug\netcoreapp3.0\MIdterm.pdb
+C:\Users\chris\source\repos\MIdterm\MIdterm\obj\Debug\netcoreapp3.0\MIdterm.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\MIdterm\MIdterm\obj\Debug\netcoreapp3.0\MIdterm.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\MIdterm\MIdterm\obj\Debug\netcoreapp3.0\MIdterm.AssemblyInfo.cs
+C:\Users\chris\source\repos\MIdterm\MIdterm\obj\Debug\netcoreapp3.0\MIdterm.dll
+C:\Users\chris\source\repos\MIdterm\MIdterm\obj\Debug\netcoreapp3.0\MIdterm.pdb
