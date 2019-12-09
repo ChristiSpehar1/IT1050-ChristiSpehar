@@ -1,0 +1,11 @@
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\bin\Debug\netcoreapp3.0\Lab7-8.exe
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\bin\Debug\netcoreapp3.0\Lab7-8.deps.json
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\bin\Debug\netcoreapp3.0\Lab7-8.runtimeconfig.json
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\bin\Debug\netcoreapp3.0\Lab7-8.runtimeconfig.dev.json
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\bin\Debug\netcoreapp3.0\Lab7-8.dll
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\bin\Debug\netcoreapp3.0\Lab7-8.pdb
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\obj\Debug\netcoreapp3.0\Lab7-8.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\obj\Debug\netcoreapp3.0\Lab7-8.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\obj\Debug\netcoreapp3.0\Lab7-8.AssemblyInfo.cs
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\obj\Debug\netcoreapp3.0\Lab7-8.dll
+C:\Users\chris\source\repos\Lab7-8\Lab7-8\obj\Debug\netcoreapp3.0\Lab7-8.pdb
